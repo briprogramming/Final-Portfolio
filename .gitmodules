@@ -10,3 +10,6 @@
 [submodule "Hackathon Project/Hackathon-Project"]
 	path = Hackathon Project/Hackathon-Project
 	url = https://github.com/briprogramming/Hackathon-Project
+[submodule "Inventory Project/InventoryApp"]
+	path = Inventory Project/InventoryApp
+	url = https://github.com/Runtime-Terror123/InventoryApp
