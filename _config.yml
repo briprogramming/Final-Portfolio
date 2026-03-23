@@ -30,6 +30,11 @@ exclude:
   - .git
   - .gitignore
   - README_old.md
+  - Backend Project/
+  - Frontend Project/
+  - Deployment Project/
+  - Hackathon Project/
+  - Inventory Project/
 
 # Include files
 include:
