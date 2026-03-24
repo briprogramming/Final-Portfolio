@@ -1,5 +1,7 @@
 # Briana Daniels - Software Engineering Portfolio
 
+**🌐 Live Portfolio**: [https://briprogramming.github.io/Portfolio/](https://briprogramming.github.io/Portfolio/)
+
 This repository showcases my key learnings and projects from my Software Engineer Apprenticeship at HP Inc. (January 2025 - April 2026).
 
 ## About Me
@@ -7,7 +9,9 @@ This repository showcases my key learnings and projects from my Software Enginee
 I'm Briana Daniels, a Software Engineer Apprentice at HP Inc. with a unique background that bridges operational excellence, data analytics, and modern software engineering. My journey into technology has been driven by curiosity and a passion for solving complex problems through automation, cloud technologies, and AI-powered solutions.
 
 **Contact & Links**
-- [LinkedIn](https://www.linkedin.com/in/brianna-daniels/)
+- **Portfolio**: [briprogramming.github.io/Portfolio](https://briprogramming.github.io/Portfolio/)
+- **LinkedIn**: [linkedin.com/in/brianna-daniels](https://www.linkedin.com/in/brianna-daniels/)
+- **GitHub**: [github.com/briprogramming](https://github.com/briprogramming)
 - **Host Company**: HP Inc.
 - **Apprenticeship Duration**: January 2025 - April 2026
 
