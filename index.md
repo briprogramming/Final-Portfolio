@@ -3,37 +3,45 @@ layout: default
 title: Briana Daniels - Software Engineering Portfolio
 ---
 
-# ✨ Briana Daniels
-## Software Engineering Portfolio
+<div style="text-align: center; margin: 3rem 0;">
 
-<div style="text-align: center; margin: 2rem 0;">
-  <p style="font-size: 1.2em; color: #5A6C7D;">
-    <strong>Software Engineer Apprentice @ HP Inc.</strong><br>
-    Building cloud-native solutions with passion & purpose
-  </p>
+# BRIANA DANIELS
+
+<p style="font-size: 1.4rem; font-weight: 600; color: #FF69B4; margin: 1.5rem 0;">
+SOFTWARE ENGINEER APPRENTICE
+</p>
+
+<p style="font-size: 1.1rem; color: #5A6C7D; max-width: 700px; margin: 1rem auto;">
+Building cloud-native solutions with AI integration, automation, and modern web technologies
+@ HP Inc.
+</p>
+
 </div>
 
 ---
 
-## 👋 Hello, I'm Briana!
+## ABOUT ME
 
 I'm a **Software Engineer Apprentice at HP Inc.** with a unique background that bridges operational excellence, data analytics, and modern software engineering. My journey into technology has been driven by curiosity and a passion for solving complex problems through automation, cloud technologies, and AI-powered solutions.
 
 **Currently working on**: Identity and Access Management Team, focusing on automation, AWS infrastructure, and AI-powered workflows.
 
-### 📫 Let's Connect!
+<div style="text-align: center; margin: 3rem 0;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
-  <a href="https://www.linkedin.com/in/brianna-daniels/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/briprogramming" target="_blank">🐙 GitHub</a> •
-  <a href="mailto:your.email@example.com">📧 Email</a>
+### LET'S CONNECT
+
+<div style="margin-top: 1.5rem;">
+  <a href="https://www.linkedin.com/in/brianna-daniels/" target="_blank" style="margin: 0 1rem;">LinkedIn</a>
+  <a href="https://github.com/briprogramming" target="_blank" style="margin: 0 1rem;">GitHub</a>
+</div>
+
 </div>
 
 ---
 
-## 🎯 My Journey
+## MY JOURNEY
 
-**From Analyst to Builder** — With experience spanning supply chain operations, SAP S/4HANA training, and enterprise system implementations, I bring a holistic perspective to software development that considers both technical implementation and real-world business impact.
+**From Analyst to Builder** — With experience spanning supply chain operations, SAP S/4HANA training, and enterprise system implementations, I bring a holistic perspective to software development that considers both technical implementation and real-world business import.
 
 **Why This Path?** I pursued this apprenticeship to gain comprehensive, end-to-end experience in software engineering. Coming from roles in supply chain analytics, ERP training, and business intelligence, I saw firsthand how technology transforms operations and empowers teams. I wanted to move from being a user and analyst of these systems to becoming someone who builds them.
 
@@ -41,47 +49,63 @@ I'm a **Software Engineer Apprentice at HP Inc.** with a unique background that 
 
 ---
 
-## 🛠️ Technical Expertise
+## TECHNICAL EXPERTISE
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
 <div>
 
-**Languages**  
+**LANGUAGES**  
 Python • JavaScript • TypeScript • SQL
 
-**Cloud & DevOps**  
-AWS (Lambda, DynamoDB, CloudWatch) • Docker • GitHub Actions • CI/CD
+</div>
+
+<div>
+
+**CLOUD & DEVOPS**  
+AWS • Docker • GitHub Actions • CI/CD
 
 </div>
 
 <div>
 
-**Frontend**  
-React 19 • Material UI • Vite • Responsive Design
-
-**Backend**  
-Node.js • Express.js • RESTful APIs • Sequelize ORM
+**FRONTEND**  
+React 19 • Material UI • Vite
 
 </div>
 
 <div>
 
-**Database**  
+**BACKEND**  
+Node.js • Express • REST APIs
+
+</div>
+
+<div>
+
+**DATABASE**  
 PostgreSQL • SQLite • DynamoDB
 
-**AI/ML Integration**  
-OpenAI API • Google Gemini • Prompt Engineering
+</div>
+
+<div>
+
+**AI/ML**  
+OpenAI API • Google Gemini
 
 </div>
 
 <div>
 
-**Security**  
-OAuth 2.0 • JWT • bcrypt • OWASP Practices
+**SECURITY**  
+OAuth 2.0 • JWT • OWASP
 
-**Tools**  
-Git • VS Code • JIRA • SAP S/4HANA • Power BI
+</div>
+
+<div>
+
+**TOOLS**  
+Git • VS Code • JIRA • Power BI
 
 </div>
 
@@ -89,22 +113,27 @@ Git • VS Code • JIRA • SAP S/4HANA • Power BI
 
 ---
 
-## 💡 Areas of Passion
+## AREAS OF FOCUS
 
-🌩️ **Cloud Architecture** — Serverless computing with AWS Lambda, API Gateway, DynamoDB
+**Cloud Architecture** — Serverless computing with AWS Lambda, API Gateway, DynamoDB
 
-🤖 **AI & Automation** — Building intelligent workflows that enhance developer productivity
+**AI & Automation** — Building intelligent workflows that enhance developer productivity
 
-🔐 **Security** — Identity and access management, compliance automation, secure architectures
+**Security** — Identity and access management, compliance automation, secure architectures
 
-📊 **Data-Driven Solutions** — Analytics dashboards and monitoring systems
+**Data-Driven Solutions** — Analytics dashboards and monitoring systems
 
 ---
 
-## 🎨 Featured Projects
+## MY WORK
 
-### 🚀 DevDeployPal
-**AI-Powered Deployment Assistant**
+<div class="project-card">
+
+<span class="project-number">01</span>
+
+### DevDeployPal
+
+<p class="project-subtitle">AI-Powered Deployment Assistant</p>
 
 An AI-powered deployment management platform that helps developers track deployments with confidence through smart automation and engaging user experience.
 
@@ -119,10 +148,15 @@ An AI-powered deployment management platform that helps developers track deploym
 
 [View Project →](https://github.com/DevDeployPal/DevDeployPal)
 
----
+</div>
 
-### 🎵 Music Discovery App
-**Interactive Spotify-Inspired Player**
+<div class="project-card">
+
+<span class="project-number">02</span>
+
+### Music Discovery App
+
+<p class="project-subtitle">Interactive Spotify-Inspired Player</p>
 
 A modern music application featuring innovative circular queue visualization and dynamic album art-driven color schemes.
 
@@ -137,10 +171,15 @@ A modern music application featuring innovative circular queue visualization and
 
 [View Project →](https://github.com/FrontEndProjectMV/music-discovery-app)
 
----
+</div>
 
-### 🧞 The Wish Granting API
-**RESTful Backend with AI Integration**
+<div class="project-card">
+
+<span class="project-number">03</span>
+
+### The Wish Granting API
+
+<p class="project-subtitle">RESTful Backend with AI Integration</p>
 
 A comprehensive backend service combining dual authentication strategies with Google Gemini AI for humorous wish outcomes.
 
@@ -155,10 +194,15 @@ A comprehensive backend service combining dual authentication strategies with Go
 
 [View Project →](https://github.com/FairyOddTeam/The-Wish-Granting-API)
 
----
+</div>
 
-### 🔐 Password Manager
-**Hackathon Project - Secure Credential Vault**
+<div class="project-card">
+
+<span class="project-number">04</span>
+
+### Password Manager
+
+<p class="project-subtitle">Hackathon Project - Secure Credential Vault</p>
 
 A secure password storage application built during a hackathon, featuring encrypted credential management and search functionality.
 
@@ -172,10 +216,15 @@ A secure password storage application built during a hackathon, featuring encryp
 
 [View Project →](https://github.com/briprogramming/Hackathon-Project) • [Live Demo →](https://hackathon-project-2885.onrender.com/)
 
----
+</div>
 
-### 📦 Inventory Management App
-**E-Commerce Inventory Tracker**
+<div class="project-card">
+
+<span class="project-number">05</span>
+
+### Inventory Management App
+
+<p class="project-subtitle">E-Commerce Inventory Tracker</p>
 
 A full-stack CRUD application for managing e-commerce inventory with shopping cart functionality and mobile responsiveness.
 
@@ -190,71 +239,69 @@ A full-stack CRUD application for managing e-commerce inventory with shopping ca
 
 [View Project →](https://github.com/Runtime-Terror123/InventoryApp)
 
+</div>
+
 ---
 
-## 📚 Technical Competencies
+## TECHNICAL COMPETENCIES
 
 Throughout my apprenticeship, I've demonstrated expertise in:
 
-**💻 Software Development**
+**Software Development**
 - Team collaboration and agile workflows
 - User interface development with UX focus
 - RESTful API design and implementation
 - Version control with Git
 
-**🏗️ Architecture & Design**
+**Architecture & Design**
 - Database schema design and modeling
 - Software architecture documentation
 - Security-first development practices
 
-**🔒 Security & DevOps**
+**Security & DevOps**
 - OAuth 2.0, JWT, and encryption
 - CI/CD pipeline implementation
 - Production deployment and monitoring
 
-**🔗 Integration**
+**Integration**
 - Third-party API integration
 - Database implementation
 - Testing and quality assurance
 
 ---
 
-## 🚀 What's Next
+## WHAT'S NEXT
 
 I'm continuing to build expertise in:
 
-✨ Cloud-native development with AWS serverless architectures  
-✨ AI/ML engineering and practical prompt engineering  
-✨ Security automation and identity access management  
-✨ Modern full-stack development frameworks
+- Cloud-native development with AWS serverless architectures  
+- AI/ML engineering and practical prompt engineering  
+- Security automation and identity access management  
+- Modern full-stack development frameworks
 
-> 💭 *I'm passionate about creating solutions that make complex systems more accessible and efficient for both technical and non-technical users.*
+> *I'm passionate about creating solutions that make complex systems more accessible and efficient for both technical and non-technical users.*
 
 ---
 
-## 🎓 Certifications
+## CERTIFICATIONS
 
 **Google Cybersecurity Certification** — December 2025
 
 ---
 
-## 💬 Let's Chat!
+<div style="text-align: center; margin: 4rem 0 2rem 0;">
 
+## GET IN TOUCH
+
+<p style="margin: 2rem 0;">
 I'm always interested in discussing technology, software engineering, and new opportunities.
+</p>
 
-**Reach out:**
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/brianna-daniels/)
-- 🐙 [View my GitHub repositories](https://github.com/briprogramming)
-- 🌐 [Explore this portfolio](https://briprogramming.github.io/Portfolio/)
-
----
-
-<div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--soft-pink);">
-
-**✨ Thank you for visiting! ✨**
-
-*Building technology that makes a difference, one line of code at a time.*
-
-<small>Last Updated: March 2026</small>
+<div style="margin-top: 2rem;">
+  <a href="https://www.linkedin.com/in/brianna-daniels/" target="_blank" style="margin: 0 1rem;">LinkedIn</a>
+  <a href="https://github.com/briprogramming" target="_blank" style="margin: 0 1rem;">GitHub</a>
+</div>
 
 </div>
+
+---

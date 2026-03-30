@@ -1,11 +1,10 @@
 # Jekyll Configuration for GitHub Pages
 
 # Site settings
-title: ✨ Briana Daniels - Software Engineering Portfolio
+title: Briana Daniels - Software Engineering Portfolio
 description: >-
-  Software Engineer Apprentice at HP Inc. 
-  Building cloud-native solutions with AI integration, passion, and purpose.
-  Showcasing projects in full-stack development, AWS architecture, and automation.
+  Software Engineer Apprentice @ HP Inc.
+  Building cloud-native solutions with AI integration and modern web technologies.
 author: Briana Daniels
 email: 
 url: "" # Will be set by GitHub Pages
