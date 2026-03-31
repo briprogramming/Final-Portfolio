@@ -624,7 +624,7 @@ section {
    RESPONSIVE DESIGN
    =================================== */
 @media screen and (max-width: 1024px) {
-  . hero-section {
+  .hero-section {
     grid-template-columns: 1fr;
     gap: 2rem;
     padding: 3rem 2rem;
