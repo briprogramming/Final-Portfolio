@@ -171,17 +171,19 @@ body {
   display: flex;
   gap: 2rem;
   margin-top: 2rem;
+  justify-content: center;
 }
 
 .hero-social a {
-  color: var(--text-medium);
+  color: var(--primary-pink);
   text-decoration: none;
-  font-weight: 500;
-  transition: color 0.3s ease;
+  font-weight: 600;
+  transition: all 0.3s ease;
 }
 
 .hero-social a:hover {
-  color: var(--primary-pink);
+  color: var(--dark-pink);
+  transform: translateY(-2px);
 }
 
 .code-showcase {
