@@ -3,10 +3,7 @@ layout: default
 title: Briana Daniels - Software Engineering Portfolio
 ---
 
-<div class="hero-section">
-  <div class="hero-content">
-    <p class="hero-greeting">Hi, I'm Briana Daniels</p>
-    <h1 class="hero-title">Crafting Cloud-Native Solutions</h1>
+
     
     <div class="hero-buttons">
       <a href="#projects" class="btn-primary">View My Work</a>
@@ -19,119 +16,13 @@ title: Briana Daniels - Software Engineering Portfolio
     </div>
   </div>
 
-  <div class="code-showcase">
-    <pre><code>const developer = {
-  name: 'Briana Daniels',
-  role: 'Software Engineer',
-  focus: ['Cloud', 'AI', 'Full-Stack'],
-  passionate: true,
-  motto: "Build with Purpose"
-};
-
-developer.createImpact();</code></pre>
-  </div>
-</div>
-
 ---
 
 <section id="about" class="about-section">
 
 <h2 style="text-align: center;">About Me</h2>
 
-Analytical and technically skilled professional with experience across supply chain operations, SAP S/4HANA training, cloud technologies, and cross-functional collaboration. Strong background in data analysis, workflow optimization, and translating complex systems into clear, actionable insights for customers and stakeholders.
-
-I am an expert at supporting large-scale operational transformations, validating system requirements, and improving process efficiency. Skilled in AWS cloud services, automation, and building data-driven solutions that enhance visibility and performance across diverse business environments.
-
-As a Software Engineer Apprentice at HP Inc. (January 2025-Current), I focus on creating generative AI workflows, building AWS-powered analytics dashboards, and partnering with cross-functional teams to deliver insights that drive decision-making and improve engineering processes.
-
-</section>
-
----
-
-<section id="experience" class="experience-section">
-
-<h2 style="text-align: center;">Professional Experience</h2>
-
-<div class="timeline">
-
-<div class="timeline-item">
-  <div class="timeline-date">NOW</div>
-  <div class="timeline-content">
-    <h3>Software Engineer Apprentice</h3>
-    <h4>HP Inc.</h4>
-    <ul>
-      <li>Created generative AI workflows, automated documentation, and insights summaries that improved cross team communication and reduced manual content creation time for engineering and product stakeholders</li>
-      <li>Partnered with product, QA, and engineering leads to translate system behavior and test findings into concise narratives and value driven recommendations used in release communications and stakeholder updates</li>
-      <li>Built an AWS powered QA analytics dashboard (Lambda, DynamoDB, CloudWatch, API Gateway) that transformed data into actionable insights, improving visibility, increasing test coverage from 33% to 85%, and enabling more effective decision making</li>
-    </ul>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2024</div>
-  <div class="timeline-content">
-    <h3>SAP 4HANA Training Analyst</h3>
-    <h4>PepsiCo</h4>
-    <ul>
-      <li>Created and delivered training content that translated complex SAP/EWM processes into simple, actionable messaging for frontline leaders, increasing adoption and reducing post go live escalations</li>
-      <li>Partnered with cross functional operations, logistics, and GTM teams to ensure content accuracy and alignment with transformation goals, supporting cohesive communication during deployment</li>
-    </ul>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2023</div>
-  <div class="timeline-content">
-    <h3>Supply Chain Analyst</h3>
-    <h4>Sunnova</h4>
-    <ul>
-      <li>Created KPI dashboards and visual content that improved cross functional understanding of supply chain performance, enabling faster, insights driven decisions</li>
-      <li>Partnered with logistics, procurement, and operations teams to analyze data and craft storytelling oriented reports that highlighted bottlenecks, performance gaps, and optimization opportunities</li>
-      <li>Produced process documentation and enablement materials that clarified workflows and supported digital transformation and automation initiatives</li>
-    </ul>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2022-2023</div>
-  <div class="timeline-content">
-    <h3>Digital Technology Analyst Co-op</h3>
-    <h4>GE Appliances</h4>
-    <ul>
-      <li>Developed data driven reports and content that improved visibility for risk management and technology stakeholders, supporting clearer communication and decision making</li>
-      <li>Supported Agile project communications by documenting workflows, translating technical updates, and aligning messaging with business requirements</li>
-      <li>Collaborated with engineering, vendors, and security teams to ensure consistent and accurate delivery of documentation and project updates</li>
-    </ul>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2022</div>
-  <div class="timeline-content">
-    <h3>Business Intelligence Engineering Analyst</h3>
-    <h4>Wells Fargo</h4>
-    <ul>
-      <li>Built analytical reports and visual dashboards that transformed complex data into easy-to-understand narratives for cross-functional teams</li>
-      <li>Partnered with engineering, operations, and research teams to align data content, ensure accuracy, and deliver insights that supported business priorities</li>
-      <li>Created a centralized landing page that improved user onboarding and internal communication by simplifying access to key resources</li>
-    </ul>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2017-2021</div>
-  <div class="timeline-content">
-    <h3>Transportation Specialist</h3>
-    <h4>Amazon</h4>
-    <ul>
-      <li>Produced data backed performance insights and operational content that helped leadership understand logistics trends, bottlenecks, and customer impacting issues</li>
-      <li>Collaborated with AFP, TOM, and Fleet Engineering to streamline workflows and create dashboards used for cross team communication and strategic decision support</li>
-      <li>Created reports and narratives that simplified high volume logistics performance data, supporting executive stakeholder briefings and operational planning</li>
-    </ul>
-  </div>
-</div>
-
-</div>
+With over 8 years of professional experience spanning transportation logistics, business intelligence, supply chain analytics, SAP training, and software engineering, I bring a unique blend of operational expertise and technical skills to every project. My career journey began at Amazon as a Transportation Specialist (2017-2021), where I produced data-backed performance insights and created dashboards that supported executive decision-making for high-volume logistics operations. I transitioned into business intelligence at Wells Fargo (2022), building analytical reports and visual dashboards that transformed complex data into actionable narratives, followed by a technology analyst role at GE Appliances (2022-2023) supporting Agile project communications and risk management initiatives. At Sunnova (2023), I served as a Supply Chain Analyst, creating KPI dashboards and storytelling-oriented reports that highlighted bottlenecks and optimization opportunities across procurement and logistics teams. My expertise expanded into enterprise systems at PepsiCo (2024) as an SAP 4HANA Training Analyst, where I translated complex SAP/EWM processes into simple, actionable content for frontline leaders during large-scale digital transformations. Currently, as a Software Engineer Apprentice at HP Inc. (2025-present), I leverage my analytical background and technical skills to create generative AI workflows, build AWS-powered analytics dashboards using Lambda, DynamoDB, and CloudWatch, and partner with cross-functional engineering teams to deliver insights that drive decision-making. My diverse experience across operations, analytics, and software development enables me to bridge the gap between business requirements and technical solutions, translating complex systems into clear, impactful outcomes.
 
 </section>
 
